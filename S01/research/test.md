@@ -1,11 +1,4 @@
-# Listas ordenadas
 
-Estos son los puntos a seguir:
-
-1. Leer la documentación
-2. Practicar
-3. Practicar más
-4. Y seguir practicando más y más
 
 
 
@@ -39,3 +32,16 @@ dos espacios y un salto de línea
   * Anidado 2
     * Anidado 3   
 
+# Listas ordenadas
+
+Estos son los puntos a seguir:
+
+1. Leer la documentación
+2. Practicar
+3. Practicar más
+4. Y seguir practicando más y más
+
+# Resaltado de texto
+
+Ejemplo de *texto en cursiva*  
+Ejemplo de **texto en negrita**
