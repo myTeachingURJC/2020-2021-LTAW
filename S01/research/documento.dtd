@@ -1,0 +1,4 @@
+<!ELEMENT documento       - - (apartado*) >
+<!ELEMENT apartado    - - (titulo?, parrafo?) >
+<!ELEMENT titulo - - (#PCDATA) >
+<!ELEMENT parrafo - - (#PCDATA) >
