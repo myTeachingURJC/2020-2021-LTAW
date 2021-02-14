@@ -1,11 +1,7 @@
-# Código
 
-```
-# -- Ejemplo de código en python
-a = 2
-print("Programa en python")
-print(f"La variable a vale {a}")
-```
+
+
+
 
 
 # Encabezado nivel 1
@@ -50,3 +46,26 @@ Estos son los puntos a seguir:
 
 Ejemplo de *texto en cursiva*  
 Ejemplo de **texto en negrita**
+
+# Código
+
+```python
+# -- Ejemplo de código en python
+a = 2
+print("Programa en python")
+print(f"La variable a vale {a}")
+```
+
+# Código en una línea
+
+En python la expresión `print(f" a + b = {2 + 1} ")` produce como resultado ` a + b = 3 ` 
+# Enlaces 
+
+## Enlaces externos
+
+En wikipedia encontramos más información sobre [markdown](https://es.wikipedia.org/wiki/Markdown)
+
+## Enlaces internos
+
+Aquí hay información sobre [los enlaces](#Enlaces) en markdwon
+
