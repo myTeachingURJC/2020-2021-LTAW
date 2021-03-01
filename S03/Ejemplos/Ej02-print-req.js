@@ -18,6 +18,10 @@ function print_info_req(req) {
     for (hname in req.headers)
       console.log(`  * ${hname}: ${req.headers[hname]}`);
 
+    //-- Construir el objeto url con la url de la solicitud
+    const myURL = new URL(req.url, 'http://' + req.headers['host']);
+    console.log("URL completa: " + myURL.href);
+    console.log("  Ruta: " + myURL.pathname);
 }
 
 //-- SERVIDOR: Bucle principal de atención a clientes
