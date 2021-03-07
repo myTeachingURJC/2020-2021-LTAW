@@ -126,10 +126,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="865.47005"
-     inkscape:cy="245.0512"
+     inkscape:cx="900.99472"
+     inkscape:cy="269.25592"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-global="false"
@@ -152,7 +152,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -160,9 +160,10 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(29.300772,2.5329163)">
+     transform="translate(29.300772,2.5329163)"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:none;stroke-width:0.265112;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3070"
        width="336.20636"
        height="231.67816"
@@ -661,5 +662,30 @@
          y="123.09437"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27165px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
          id="tspan1571">mi lenguaje de marcado</tspan></text>
+    <g
+       id="g970"
+       transform="translate(15.021709,0.17882132)">
+      <ellipse
+         style="fill:#f9f9f9;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path957"
+         cx="183.94954"
+         cy="99.62989"
+         rx="17.211121"
+         ry="4.7543197" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.27165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="183.9671"
+         y="101.25777"
+         id="text963"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="183.9671"
+           y="101.25777"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27165px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.264583"
+           id="tspan961">Opcional</tspan></text>
+    </g>
   </g>
 </svg>
