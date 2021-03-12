@@ -1,5 +1,52 @@
 const fs = require('fs');
 
+
+function print_array(arr, indent)
+{
+  
+  let indent_str = " ".repeat(indent);
+
+  arr.forEach((element, index) => {
+    process.stdout.write(indent_str);
+    console.log(index + ': ' + element);
+  });
+  
+}
+
+//-- Imprimir un objeto
+function print_obj(obj, indent) 
+{
+
+  let indent_str = " ".repeat(indent);
+
+  switch (typeof obj) {
+    case 'number':
+      console.log(indent_str + "NUMERO: " + obj);
+      break;
+  
+    case 'string':
+      console.log(indent_str + "STRING: " + obj);
+  
+    case 'boolean':
+      console.log(indent_str + "Boolean: " + obj);
+  
+    case 'object':
+      if (Array.isArray(obj)) {
+        process.stdout.write(indent_str);
+        console.log("Array: " + obj.length + " elementos");
+        print_array(obj, indent + 2);
+      }
+      else if (obj === null) {
+        console.log("NULL!");
+      } else {
+        console.log("Objeto: " + Object.keys(obj).length + " propiedades");
+      }
+  
+    default:
+      break;
+  }
+}
+
 //-- Fichero JSON por defecto
 let fichero="test.json";
 
@@ -29,32 +76,7 @@ console.log("-------Objeto:")
 //-- Obtener el objeto
 let obj = JSON.parse(data);
 
+print_obj(obj, 0);
 
-switch (typeof obj) {
-  case 'number':
-    
-    break;
-
-  default:
-    break;
-}
-
-switch (typeof obj) {
-
-}
-
-if (typeof obj === 'number') {
-  console.log("NUMERO: " + obj);
-}
-
-if (typeof obj == 'string') {
-  console.log("STRING: " + obj);
-}
-
-if (typeof obj == 'boolean') {
-  console.log("Boolean: " + obj)
-}
-
-if ()
 
 console.log("");
