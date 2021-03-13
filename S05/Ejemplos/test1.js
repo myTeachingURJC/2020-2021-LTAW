@@ -8,39 +8,55 @@ function print_array(arr, indent)
 
   arr.forEach((element, index) => {
     process.stdout.write(indent_str);
-    console.log(index + ': ' + element);
+    process.stdout.write(index + ': ');
+    print_element(element, indent + 2);
+    //console.log(index + ': ' + element);
   });
-  
 }
 
-//-- Imprimir un objeto
-function print_obj(obj, indent) 
+function print_obj(obj, indent)
+{
+  let indent_str = " ".repeat(indent);
+
+  for (let name in obj) {
+    process.stdout.write(indent_str);
+    process.stdout.write(name + ': ');
+    print_element(obj[name], indent + 0);
+  }
+
+}
+
+//-- Imprimir un objeto generico
+function print_element(obj, indent) 
 {
 
   let indent_str = " ".repeat(indent);
 
   switch (typeof obj) {
     case 'number':
-      console.log(indent_str + "NUMERO: " + obj);
+      console.log("NUMERO: " + obj);
       break;
   
     case 'string':
-      console.log(indent_str + "STRING: " + obj);
-  
+      console.log("STRING: " + obj);
+      break;
+
     case 'boolean':
-      console.log(indent_str + "Boolean: " + obj);
+      console.log("Boolean: " + obj);
+      break;
   
     case 'object':
       if (Array.isArray(obj)) {
-        process.stdout.write(indent_str);
         console.log("Array: " + obj.length + " elementos");
         print_array(obj, indent + 2);
       }
       else if (obj === null) {
         console.log("NULL!");
       } else {
-        console.log("Objeto: " + Object.keys(obj).length + " propiedades");
+        process.stdout.write("Objeto: " + Object.keys(obj).length + " propiedades\n");
+        print_obj(obj, indent + 2);
       }
+      break;
   
     default:
       break;
@@ -76,7 +92,7 @@ console.log("-------Objeto:")
 //-- Obtener el objeto
 let obj = JSON.parse(data);
 
-print_obj(obj, 0);
+print_element(obj, 0);
 
 
 console.log("");
