@@ -1,7 +1,7 @@
-//-- Página dinámica que detecta si la petición ha
-//-- venido de un usuario
-//-- Para ello se detecta si en la cookie hay un par
-//-- nombre-valor de la forma "user=nombre";
+//-- Ejemplo de login básico
+//-- La página principal detecta al usuario
+//-- Se puede acceder como usuario Chuck desde
+//-- el recurso /login
 
 const http = require('http');
 const fs = require('fs');
@@ -79,14 +79,15 @@ const server = http.createServer((req, res) => {
     }
 
     //-- Acceso a otro recurso: Se hace login
-  } else {
+  } else if (myURL.pathname == '/login') {
 
     //-- Asignar la cookie de usuario Chuck
     res.setHeader('Set-Cookie', "user=Chuck");
 
     //-- Asignar la página web de login ok
     content = LOGIN;
-
+  } else {
+      content = "ERROR!!!";
   }
      
   //-- Enviar la respuesta
