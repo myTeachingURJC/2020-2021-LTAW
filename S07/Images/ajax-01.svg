@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="433.83894"
-     inkscape:cy="250.09696"
+     inkscape:cx="467.81765"
+     inkscape:cy="228.05317"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -163,34 +163,6 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
          id="tspan933">(DOM)</tspan></text>
     <g
-       id="g979"
-       transform="matrix(0.54545007,0,0,0.53814687,24.764941,-14.778578)"
-       style="stroke-width:1.84574664">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2480"
-         d="m 154.3105,72.477914 v 12.49498 H 39.262963 V 114.43069 H 154.3105 v 9.83305 l 34.32,-26.785756 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.46506143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <text
-         id="text817-5"
-         y="97.099731"
-         x="101.5862"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.55952px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87206"
-         xml:space="preserve"><tspan
-           id="tspan819-2"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.87206"
-           y="97.099731"
-           x="101.5862"
-           sodipodi:role="line">Peticiones del <tspan
-   style="fill:#ff0000"
-   id="tspan1043">USUARIO</tspan></tspan><tspan
-           id="tspan973"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.87206"
-           y="106.54913"
-           x="101.5862"
-           sodipodi:role="line">(HTTP)</tspan></text>
-    </g>
-    <g
        id="g1008"
        transform="matrix(0.78143972,0,0,0.78107488,-23.432249,-60.833529)"
        style="stroke-width:1.27998805">
@@ -219,28 +191,146 @@
            sodipodi:role="line">Javascript</tspan></text>
     </g>
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 107.67796,58.008436 V 64.73257 H 44.925276 v 15.852618 h 62.752684 v 5.29163 l 18.71985,-14.41467 z"
-       id="path2480-0"
-       inkscape:connector-curvature="0" />
+       d="m 44.978873,29.47759 68.060397,0 v -3.768047 l 7.30559,6.280074 -7.30559,6.28008 V 34.50165 l -68.060397,0 v -2.512033 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path1199"
+       style="stroke-width:0.793748;stroke-miterlimit:10;stroke-dasharray:none;fill:#ffeeaa"
+       sodipodi:nodetypes="ccccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09564px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47247"
-       x="78.389374"
-       y="71.740486"
-       id="text817-5-9"
-       transform="scale(1.0067627,0.99328275)"><tspan
+       x="83.155334"
+       y="26.28845"
+       id="text884"
+       transform="scale(1.0067627,0.99328273)"><tspan
          sodipodi:role="line"
-         x="78.389374"
-         y="71.740486"
+         x="83.155334"
+         y="26.28845"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan880">HTTP</tspan><tspan
+         sodipodi:role="line"
+         x="83.155334"
+         y="31.408001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan882" /></text>
+    <text
+       id="text817-5"
+       y="33.447781"
+       x="78.463242"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09564px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47247"
+       xml:space="preserve"
+       transform="scale(1.0067626,0.99328282)"><tspan
+         id="tspan819-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         y="33.447781"
+         x="78.463242"
+         sodipodi:role="line">Peticiones del <tspan
+   style="fill:#ff0000;stroke-width:0.47247"
+   id="tspan1043">USUARIO</tspan></tspan><tspan
+         id="tspan973"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         y="38.567329"
+         x="78.463242"
+         sodipodi:role="line" /></text>
+    <path
+       d="M 115.54217,41.467868 H 47.481776 v -3.768047 l -7.30559,6.280074 7.30559,6.28008 v -3.768047 h 68.060394 v -2.512033 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path892"
+       style="stroke-width:0.793748;stroke-miterlimit:10;stroke-dasharray:none;fill:#ffeeaa"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09564px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47247"
+       x="79.328644"
+       y="45.409164"
+       id="text890"
+       transform="scale(1.0067627,0.99328273)"><tspan
+         sodipodi:role="line"
+         x="79.328644"
+         y="45.409164"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan886">html, css, js, imágenes</tspan><tspan
+         sodipodi:role="line"
+         x="79.328644"
+         y="50.528713"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan888" /></text>
+    <path
+       d="m 45.767892,63.341262 h 61.699238 v -3.768047 l 7.30559,6.280074 -7.30559,6.28008 V 68.365322 H 45.767892 v -2.512033 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path894"
+       style="fill:#ffeeaa;stroke-width:0.793748;stroke-miterlimit:10;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09564px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47247"
+       x="75.111717"
+       y="67.853523"
+       id="text817-5-9"
+       transform="scale(1.0067627,0.99328273)"><tspan
+         sodipodi:role="line"
+         x="75.111717"
+         y="67.853523"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
          id="tspan819-2-3">Peticiones de <tspan
    style="fill:#0000ff"
    id="tspan1041">DATOS</tspan></tspan><tspan
          sodipodi:role="line"
-         x="78.389374"
-         y="76.860039"
+         x="75.111717"
+         y="72.973068"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
-         id="tspan973-6">(HTTP)</tspan></text>
+         id="tspan973-6" /></text>
+    <path
+       d="M 114.98466,75.039181 H 53.285426 v -3.768047 l -7.30559,6.280074 7.30559,6.28008 v -3.768047 h 61.699234 v -2.512033 z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="all"
+       id="path896"
+       style="fill:#ffeeaa;stroke-width:0.793748;stroke-miterlimit:10;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09564px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47247"
+       x="79.328644"
+       y="79.487381"
+       id="text902"
+       transform="scale(1.0067627,0.99328273)"><tspan
+         sodipodi:role="line"
+         x="79.328644"
+         y="79.487381"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan898">JSON/XML</tspan><tspan
+         sodipodi:role="line"
+         x="79.328644"
+         y="84.606934"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan900" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09564px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47247"
+       x="83.155334"
+       y="61.40192"
+       id="text908"
+       transform="scale(1.0067627,0.99328273)"><tspan
+         sodipodi:role="line"
+         x="83.155334"
+         y="61.40192"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan904">HTTP</tspan><tspan
+         sodipodi:role="line"
+         x="83.155334"
+         y="66.521469"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.47247"
+         id="tspan906" /></text>
   </g>
 </svg>
