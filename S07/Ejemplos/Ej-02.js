@@ -5,7 +5,7 @@ const fs = require('fs');
 const PUERTO = 8080;
 
 //-- Cargar pagina web principal
-const MAIN = fs.readFileSync('Ej-01.html','utf-8');
+const MAIN = fs.readFileSync('Ej-02.html','utf-8');
 
 //-- Leer fichero JSON con los productos
 const PRODUCTOS_JSON = fs.readFileSync('Ej-01.json');
@@ -31,12 +31,17 @@ const server = http.createServer((req, res) => {
             break;
 
         case 'cliente-1.js':
-        case 'cliente-2.js':
             //-- Leer fichero javascript
-            fs.readSync(recurso, 'utf-8', (err,data) => {
-                res.setHeader('Content-Type', 'application/javascript');
-                res.write(content);
-                res.end();
+            console.log("recurso: " + recurso);
+            fs.readFile(recurso, 'utf-8', (err,data) => {
+                if (err) {
+                    console.log("Error: " + err)
+                    return;
+                } else {
+                  res.setHeader('Content-Type', 'application/javascript');
+                  res.write(data);
+                  res.end();
+                }
             });
             
             return;
