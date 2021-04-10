@@ -51,7 +51,12 @@ const server = http.createServer((req, res) => {
 
             for (let prod of productos) {
 
-                if (prod.startsWith(param1)) {
+                //-- Pasar a mayúsculas
+                prodU = prod.toUpperCase();
+
+                //-- Si el producto comienza por lo indicado en el parametro
+                //-- meter este producto en el array de resultados
+                if (prodU.startsWith(param1)) {
                     result.push(prod);
                 }
                 
