@@ -1,17 +1,8 @@
 {
     "name": "ejemplo-2",
     "description": "Mi primer proyecto",
-    "keywords": [
-      "ltaw",
-      "test"
-    ],
     "version": "0.0.1",
     "author": "Juan Gonzalez-Gómez (Obijuan)",
     "main": "Ej-02.js",
-    "devDependencies": {},
-    "license": "GPL-3.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/myTeachingURJC/2020-2021-LTAW.git"
-    }
+    "license": "GPL-3.0"
 }
