@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.67081229"
-     inkscape:cx="497.15845"
-     inkscape:cy="201.24855"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="500.43649"
+     inkscape:cy="189.73895"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="true"
@@ -1819,9 +1819,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
          x="84.03331"
          y="67.898781">Tiempo</tspan></text>
-    <path
-       style="fill:#999999;stroke:#999999;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="m 116.27336,65.177661 h 20.04736"
-       id="path17260" />
+    <g
+       id="path17260">
+      <path
+         style="color:#000000;fill:#999999;stroke-width:1.32292;-inkscape-stroke:none"
+         d="m 116.27336,65.177661 h 20.04736"
+         id="path18306" />
+      <path
+         style="color:#000000;fill:#999999;-inkscape-stroke:none"
+         d="m 116.27344,64.515625 v 1.324219 h 20.04687 v -1.324219 z"
+         id="path18308" />
+      <g
+         id="g18296">
+        <path
+           style="color:#000000;fill:#999999;fill-rule:evenodd;stroke-width:0.496095;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m 129.40032,61.975876 8.67244,3.189074 -8.67244,3.189074 c 1.3855,-1.882828 1.37751,-4.458863 0,-6.378148 z"
+           id="path18298" />
+      </g>
+    </g>
   </g>
 </svg>
