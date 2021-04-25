@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.4368626"
-     inkscape:cx="491.00106"
-     inkscape:cy="206.01443"
+     inkscape:zoom="1.235634"
+     inkscape:cx="379.15757"
+     inkscape:cy="300.25071"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="true"
@@ -1199,10 +1199,24 @@
          x="165.41405"
          y="-143.50171"
          id="tspan13687">(Sólo entramas del cliente al servidor)</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#marker15528)"
-       d="M -44.125495,-79.916437 H 17.438198"
-       id="path15232" />
+    <g
+       id="path15232">
+      <path
+         style="color:#000000;fill:#000000"
+         d="m -44.125,-80.3125 v 0.792969 H 17.4375 V -80.3125 Z"
+         id="path68015" />
+      <g
+         id="g67997">
+        <path
+           style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:0.297656;stroke-linejoin:round"
+           d="m 13.285971,-81.837503 5.203449,1.91344 -5.20345,1.913439 c 0.831294,-1.129694 0.826504,-2.675311 10e-7,-3.826879 z"
+           id="path68007" />
+        <path
+           style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:0.297656;stroke-linejoin:round"
+           d="m -39.973268,-77.995371 -5.203449,-1.91344 5.20345,-1.913439 c -0.831294,1.129694 -0.826504,2.675311 -10e-7,3.826879 z"
+           id="path67999" />
+      </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.13801px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1214,10 +1228,24 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.264583"
          x="-26.465193"
          y="-71.79097">1 Byte</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#marker15528)"
-       d="M 17.4382,-79.916437 H 79.001893"
-       id="path19592" />
+    <g
+       id="path19592">
+      <path
+         style="color:#000000;fill:#000000;-inkscape-stroke:none"
+         d="m 17.4375,-80.3125 v 0.792969 H 79.001953 V -80.3125 Z"
+         id="path68039" />
+      <g
+         id="g68021">
+        <path
+           style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:0.297656;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m 74.849666,-81.837503 5.203449,1.91344 -5.20345,1.913439 c 0.831294,-1.129694 0.826504,-2.675311 10e-7,-3.826879 z"
+           id="path68031" />
+        <path
+           style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:0.297656;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m 21.590427,-77.995371 -5.203449,-1.91344 5.20345,-1.913439 c -0.831294,1.129694 -0.826504,2.675311 -1e-6,3.826879 z"
+           id="path68023" />
+      </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.13801px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
