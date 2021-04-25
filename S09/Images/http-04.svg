@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="321.89993mm"
+   width="338.67715mm"
    height="165.14767mm"
-   viewBox="0 0 321.89992 165.14768"
+   viewBox="0 0 338.67714 165.14768"
    version="1.1"
    id="svg862"
    inkscape:version="1.1-beta1 (adaf6e025b, 2021-04-24)"
@@ -27,14 +27,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.61781701"
-     inkscape:cx="656.34321"
+     inkscape:cx="423.26449"
      inkscape:cy="273.54378"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="true"
@@ -45,7 +45,9 @@
      fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid19491" />
+       id="grid19491"
+       originx="4.4409179e-08"
+       originy="-3.5595706e-07" />
   </sodipodi:namedview>
   <defs
      id="defs859">
@@ -870,7 +872,7 @@
            inkscape:connector-curvature="0" />
         <polygon
            style="fill:#616161"
-           points="35.486,45.316 35.486,40.441 34.813,40.441 11.952,40.441 11.952,45.316 "
+           points="34.813,40.441 11.952,40.441 11.952,45.316 35.486,45.316 35.486,40.441 "
            id="polygon1186" />
         <linearGradient
            id="linearGradient3902"
@@ -945,7 +947,7 @@
            id="rect1202" />
         <polygon
            style="fill:#616161"
-           points="26.156,31.112 21.281,31.112 21.281,31.479 21.281,43.959 26.156,43.959 "
+           points="21.281,31.479 21.281,43.959 26.156,43.959 26.156,31.112 21.281,31.112 "
            id="polygon1203" />
         <linearGradient
            id="linearGradient3916"
@@ -1265,7 +1267,7 @@
       </radialGradient>
       <polygon
          style="fill:url(#XMLID_27_)"
-         points="22.091,36.26 12.329,33.005 12.329,10.224 22.091,13.479 35.109,3.715 35.109,26.496 "
+         points="12.329,10.224 22.091,13.479 35.109,3.715 35.109,26.496 22.091,36.26 12.329,33.005 "
          id="polygon1272"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <linearGradient
@@ -1298,7 +1300,7 @@
       </linearGradient>
       <polygon
          style="fill:url(#XMLID_28_)"
-         points="22.091,13.479 35.109,3.715 25.437,1.637 12.329,10.224 "
+         points="25.437,1.637 12.329,10.224 22.091,13.479 35.109,3.715 "
          id="polygon1279"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <linearGradient
@@ -1331,7 +1333,7 @@
       </linearGradient>
       <polygon
          style="fill:url(#XMLID_29_)"
-         points="22.091,13.479 12.329,10.224 12.329,33.005 22.091,36.26 "
+         points="12.329,33.005 22.091,36.26 22.091,13.479 12.329,10.224 "
          id="polygon1286"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <linearGradient
@@ -1364,7 +1366,7 @@
       </linearGradient>
       <polygon
          style="fill:url(#XMLID_30_)"
-         points="22.091,36.26 22.091,30.504 12.329,27.4 12.329,33.005 "
+         points="12.329,27.4 12.329,33.005 22.091,36.26 22.091,30.504 "
          id="polygon1293"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <linearGradient
@@ -1397,7 +1399,7 @@
       </linearGradient>
       <polygon
          style="fill:url(#XMLID_31_)"
-         points="20.093,16.546 13.806,14.451 13.806,16.165 20.093,18.261 "
+         points="13.806,16.165 20.093,18.261 20.093,16.546 13.806,14.451 "
          id="polygon1300"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <linearGradient
@@ -1430,7 +1432,7 @@
       </linearGradient>
       <polygon
          style="fill:url(#XMLID_32_)"
-         points="20.093,18.975 13.806,16.879 13.806,18.594 20.093,20.689 "
+         points="13.806,18.594 20.093,20.689 20.093,18.975 13.806,16.879 "
          id="polygon1307"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <linearGradient
@@ -1463,7 +1465,7 @@
       </linearGradient>
       <polygon
          style="fill:url(#XMLID_33_)"
-         points="20.093,21.404 13.806,19.308 13.806,21.023 20.093,23.118 "
+         points="13.806,21.023 20.093,23.118 20.093,21.404 13.806,19.308 "
          id="polygon1314"
          transform="matrix(2.5379704,0,0,2.5379704,-30.17599,-58.122295)" />
       <g
